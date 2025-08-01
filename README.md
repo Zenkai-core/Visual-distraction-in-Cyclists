@@ -7,6 +7,8 @@ Non-Commercial License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
+`data/` and `paper/` content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [LICENSE_DATA.txt](./LICENSE_DATA.txt).
+
 
 # IMU Labeled Dataset
 
