@@ -1,6 +1,7 @@
+Copyright (c) 2025 Sidhharth Balakrishnan
 # Visual-distraction-in-Cyclists
 Analysing Visual distraction cues in Cyclists using OpenEarables
-
+Non-Commercial License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
